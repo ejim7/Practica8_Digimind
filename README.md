@@ -1,2 +1,2 @@
 # Practica8_Digimind
-Digmind
+Enrique Jiménez Marín 00000181605
